@@ -25,19 +25,19 @@ let track_list = [
   { 
     name: "Bekhayali", 
     artist: "Sachet Tondon", 
-    image: "trackimg.jpg", 
+    image: "bekhayali.jpg", 
     path: "Bekhayali.mp3"
   }, 
   { 
     name: "Shayad", 
     artist: "Arijit Singh", 
-    image: "trackimg.jpg", 
+    image: "shayad.jpgeg", 
     path: "Shayad.mp3"
   }, 
   { 
     name: "Tera Yaar", 
     artist: "Arijit Singh", 
-    image: "trackimg.jpg", 
+    image: "terayaar.jpg", 
     path: "Tera Yaar.mp3", 
   }, 
 ]; 
