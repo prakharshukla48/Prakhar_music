@@ -31,7 +31,7 @@ let track_list = [
   { 
     name: "Shayad", 
     artist: "Arijit Singh", 
-    image: "shayad.jpgeg", 
+    image: "shayad.jpg", 
     path: "Shayad.mp3"
   }, 
   { 
